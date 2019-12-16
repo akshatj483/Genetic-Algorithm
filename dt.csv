@@ -1,0 +1,27 @@
+Player ID ,Player Name ,Matches Played ,Won, Lost ,No. of wins  (last M matches) ,Specification 
+1,Shahid Afridi,325,173,152,0,ALL
+2,Abdul Razzaq,262,143,112,1,ALL
+3,Fawad Alam,27,13,14,4,BAT
+4,Misbah-ul-Haq,78,52,24,5,BAT
+5,Mohammad Yousuf,288,164,118,5,BAT
+6,Umar Gul,90,55,34,3,BOW
+7,Younis khan,223,125,92,0,BAT
+8,Umar Akmal,43,21,21,5,BAT
+9,M. Sami,83,48,33,0,BOW
+10,Saeed Ajmal,45,21,24,0,BOW
+11,Kamran Akmal,137,74,59,3,WC
+12,Imran Farhat,37,19,18,4,BAT
+13,Taufeeq Umar,22,13,9,2,BAT
+14,Sohail Tanvir,36,23,12,3,BOW
+15,Asad Shafiq,21,12,9,1,BAT
+16,Azhar Mahmood,143,73,66,1,ALL
+17,Imran Nazir,79,45,33,2,BAT
+18,Shoaib Malik,192,106,81,5,ALL
+19,Ahmed Shehzad,19,11,7,0,BAT
+20,Mohammad Hafeez,79,39,38,5,BAT
+21,Salman Butt,78,43,34,5,BAT
+22,Mohammad Asif,38,16,19,5,BOW
+23,Mohammad Amir,15,5,10,2,BOW
+24,Wahab Riaz,22,15,6,0,BOW
+25,Sarfaraz Ahmed,6,3,0,3,WC
+26,Zulqurnan Haider,2,2,0,1,WC
